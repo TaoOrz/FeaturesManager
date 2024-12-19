@@ -39,7 +39,7 @@ let package = Package(
         ),
         .binaryTarget(
             name: "NotificationFeature",
-            url:"https://firebasestorage.googleapis.com/v0/b/autotoll-407b9.appspot.com/o/NotificationFeature.xcframework.zip?alt=media&token=054df62e-b82e-4fb9-98ca-abf4719a0187",
+            url:"/Users/mac/Desktop/framework/NotificationFeature/NotificationFeature.xcframework.zip",
             checksum: "9be3b8b698f321f2b97782eb2951a61de4b71ebd79b2ac380a50bb2fbf8c255e"
         )
         //
